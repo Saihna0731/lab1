@@ -1,0 +1,11 @@
+# <type>(<scope>): <товч тайлбар — 72 тэмдэгт, цэггүй>
+#
+# type:  feat | fix | docs | test | refactor | perf | style | chore | build | ci
+# scope: core|bfs|dfs|gbfs|astar|heuristics|grid|benchmark|viz|tests|docs|env
+#
+# ── Body: ЯАГААД өөрчилсөн бэ (мөр бүр 100 тэмдэгтээс бага) ──────────
+#
+#
+# ── Footer ───────────────────────────────────────────────────────────
+# BREAKING CHANGE: ...
+# Closes #<issue>

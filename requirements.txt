@@ -1,0 +1,7 @@
+# Лабораторийн шууд хамаарал (Python 3.11+)
+numpy==2.5.3
+pandas==3.0.6
+matplotlib==3.11.2
+pytest==9.1.1
+ipykernel==7.3.0
+jupyterlab==4.6.3
