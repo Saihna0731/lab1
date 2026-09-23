@@ -10,6 +10,7 @@ dist/
 
 # ── Virtual environment ─────────────────────────────────
 .venv/
+.venv*/
 venv/
 env/
 ENV/
@@ -41,8 +42,14 @@ results/*.csv
 results/*.json
 figures/*.png
 figures/*.svg
+figures/*/
 logs/
 *.log
+
+# ── Тайлан ба түүнийг үүсгэгч код (repo-д зөвхөн лабын код байна) ──
+docs/
+scripts/build_*_report.py
+scripts/revise_*_report.py
 
 # ── IDE / editor ────────────────────────────────────────
 .vscode/*

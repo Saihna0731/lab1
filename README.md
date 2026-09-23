@@ -44,13 +44,14 @@ Notebook дотор kernel-ээ **Python (AI Search Lab)** болгож сонг
 ```
 .
 ├── src/            # Алгоритмын код (Search интерфейс, BFS/DFS/GBFS/A*)
+├── scripts/        # Лабораторийн бие даасан программууд (XOXO minimax гэх мэт)
 ├── tests/          # pytest тестүүд
 ├── notebooks/      # Шинжилгээ, benchmark, график
 ├── results/        # Benchmark үр дүн (git-д ордоггүй)
 ├── figures/        # График (git-д ордоггүй)
-└── docs/           # Баримт бичиг, commit convention
+└── docs/           # Тайлан, баримт бичиг (git-д ордоггүй)
 ```
 
 ## Хөгжүүлэлтийн дүрэм
 
-Commit болон branch-ийн дүрмийг [docs/COMMIT_CONVENTION.md](docs/COMMIT_CONVENTION.md)-с үзнэ үү.
+Commit болон branch-ийн дүрмийг `docs/COMMIT_CONVENTION.md`-с үзнэ үү (локал файл, git-д ордоггүй).
